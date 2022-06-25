@@ -59,7 +59,7 @@ global.ownertag = ['+94742693913'] //ur owner tag
 global.ownernummenu = ['+94742693913'] //ur owner number in menu and all
 global.watermark = "𝙼𝚛𝚜 𝚀𝚞𝚎𝚎𝚗" //ur watermark
 global.botscript = "https://github.com/Mrkingmodz"
-global.linkz1 = "https://chat.whatsapp.com/"
+global.linkz1 = "https://tinyurl.com/28q8h6ch"
 global.linkz2 = "https://tinyurl.com/28q8h6ch"
 
 //Bot theme media

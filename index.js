@@ -54,14 +54,14 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 console.log(color('\n🐶 YT CHANNEL: Mrkingmodz ','silver'))
 console.log(color('🐶 GITHUB: Mrkingmodz ','silver'))
 console.log(color('🐶 WA NUMBER: +94782390183 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
+console.log(color('  🦄Mr king modz. 2022🦄','mediumseagreen'))
     console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
     console.log(color('🐶', 'cyan'), color('https://wa.me/94782390183'))
-    console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
+    console.log(color('🐶', 'cyan'), color('Mrs Queen Bot Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
+    console.log(color('🐶','red'), color('Thanks For Using MrsQueen Bot', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
