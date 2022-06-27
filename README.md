@@ -1,4 +1,4 @@
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩3ꫂ<br></h1>
+<h1 align="center">ꪶ𝗠𝗗 𝗩3ꫂ<br></h1>
 <p align="center">
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
@@ -15,18 +15,18 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD3/fork)
+- FORK THE REPOSITORY [Here]
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)]()
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L44)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L59)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L58)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L45)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L51)
+- CHANGE OWNER NUMBER VCARD [Here]()
+- CHANGE OWNER NUMBER MENU [Here]()
+- CHANGE OWNER NUMBER TAG [Here]()
+- CHANGE OWNER NAME [Here]()
+- CHANGE BOT NAME [Here]()
 
 ## ` BUILDPACKS`
 
@@ -47,8 +47,8 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD3.git
-cd CheemsBot-MD3
+git clone 
+cd 
 
 npm start
 ```
